@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TempConvertor</string>
+
+    <string-array name="TemperatureUnits">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
